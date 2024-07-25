@@ -1,7 +1,3 @@
-# <p align="center">
-  <img src="https://your-image-url.com/animated-girl-coding.gif" alt="Animated Girl Coding" width="200">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&background=000000&width=435&lines=Welcome+to+my+corner+of+GitHub%21+%F0%9F%8C%9F" alt="Typing SVG">
 </p>
