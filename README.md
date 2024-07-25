@@ -2,9 +2,7 @@
 
 ### Welcome to my corner of GitHub! 🌟
 
-![Profile Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
-
-I'm a 3rd-year **Artificial Intelligence** student at **SRM Institute of Science and Technology**. Passionate about **machine learning** and **data science**, I love tackling real-world problems with innovative solutions. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+there%2C+I'm+Ananyashree!+👋;I'm+a+3rd-year+Artificial+Intelligence+student;at+SRM+Institute+of+Science+and+Technology.;Passionate+about+machine+learning+and+data+science.;I+love+tackling+real-world+problems+with+innovative+solutions.+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -19,7 +17,7 @@ I'm a 3rd-year **Artificial Intelligence** student at **SRM Institute of Science
 
 ## 🛠️ Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -37,16 +35,15 @@ I'm a 3rd-year **Artificial Intelligence** student at **SRM Institute of Science
 
 ---
 
-## 🌟 Notable Experiences
-- **Sales and Marketing Intern**: Gained hands-on experience in marketing strategies and sales techniques, learning how to effectively interact with people.
-- **Technical Internship**: Explored the fascinating world of drones, understanding their systems and mechanisms during a 10-week virtual internship in Palo Alto.
+## 👨‍💻 All of my projects are available at
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyashree?tab=repositories)
 
 ---
 
-## 🌍 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyashree)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ananya_AI)
-- **Email:** ananyashree@example.com
+## 📫 Get in touch with me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyashree-3926a3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ananyaa8.10?igsh=MXFuaWQzdGxhdnE0bw==)
+- **Email:** ananyashreegrd@gmail.com
 
 ---
 
@@ -73,6 +70,14 @@ I'm a 3rd-year **Artificial Intelligence** student at **SRM Institute of Science
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyashree&layout=compact&theme=radical)
+
+---
+
+### 📈 Contributions and Streaks
+- **Total Contributions**: 33
+- **Repositories**: 10
+- **Longest Streak**: [Your Longest Streak]
+- **Current Streak**: [Your Current Streak]
 
 ---
 
