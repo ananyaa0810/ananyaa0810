@@ -51,17 +51,13 @@
 
 ---
 
-> "The best way to predict the future is to create it." - Peter Drucker
-
----
-
 ### 📊 GitHub Stats
 ![Ananyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa0810&show_icons=true&theme=radical)
 
 ---
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa0810&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa0810&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5)
 
 ---
 
@@ -72,6 +68,15 @@
 - **Repositories**: 10
 - **Longest Streak**: [Your Longest Streak]
 - **Current Streak**: [Your Current Streak]
+
+---
+
+**💻 Most Used Languages:**
+- **Jupyter Notebook**: ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) - 40%
+- **C++**: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) - 25%
+- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - 20%
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) - 10%
+- **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) - 5%
 
 ---
 
