@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&background=000000&width=435&lines=Hi+there%2C+I'm+Ananyashree!+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
-**Welcome to my corner of GitHub! 🌟**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&background=000000&width=435&lines=Welcome+to+my+corner+of+GitHub%21+%F0%9F%8C%9F" alt="Typing SVG">
+</p>
 
-**I'm a 3rd-year Artificial Intelligence student at SRM Institute of Science and Technology. Passionate about machine learning and data science, I love tackling real-world problems with innovative solutions. 🚀**
+**I'm passionate about machine learning and data science, and I love tackling real-world problems with innovative solutions. 🚀**
 
 ---
 
