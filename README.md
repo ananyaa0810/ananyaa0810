@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&background=2D2D2D&width=435&lines=Hi+there%2C+I'm+Ananyashree%21+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
-**I'm passionate about machine learning and data science, and I love tackling real-world problems with innovative solutions. 🚀**
+**Passionate about machine learning and data science, and love tackling real-world problems with innovative solutions. 🚀**
 
 ---
 
