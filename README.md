@@ -57,21 +57,16 @@
 ---
 
 ### 💻 Most Used Languages
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) **0.40**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **0.30**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **0.15**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) **0.005**  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) **0.005**  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) **40.00%**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **30.00%**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **15.00%**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) **0.50%**  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) **0.50%**  
 
 ---
 
 ### 📈 Contributions and Streaks
 ![Ananyashree's Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa0810&theme=radical)
-
-- **Total Contributions**: 33
-- **Repositories**: 10
-- **Longest Streak**: [Your Longest Streak]
-- **Current Streak**: [Your Current Streak]
 
 ---
 
