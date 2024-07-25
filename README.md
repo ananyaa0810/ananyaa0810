@@ -1,8 +1,10 @@
-# Hi there, I'm Ananyashree! 👋
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&background=000000&width=435&lines=Hi+there%2C+I'm+Ananyashree!+%F0%9F%91%8B" alt="Typing SVG">
+</p>
 
-### Welcome to my corner of GitHub! 🌟
+**Welcome to my corner of GitHub! 🌟**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+there%2C+I'm+Ananyashree!+👋;I'm+a+3rd-year+Artificial+Intelligence+student;at+SRM+Institute+of+Science+and+Technology.;Passionate+about+machine+learning+and+data+science.;I+love+tackling+real-world+problems+with+innovative+solutions.+🚀)](https://git.io/typing-svg)
+**I'm a 3rd-year Artificial Intelligence student at SRM Institute of Science and Technology. Passionate about machine learning and data science, I love tackling real-world problems with innovative solutions. 🚀**
 
 ---
 
@@ -32,11 +34,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 👨‍💻 All of my projects are available at
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyashree?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyaa0810?tab=repositories)
 
 ---
 
@@ -47,33 +51,23 @@
 
 ---
 
-![Quote](https://images.unsplash.com/photo-1557683316-973673baf926)
-
 > "The best way to predict the future is to create it." - Peter Drucker
 
 ---
 
 ### 📊 GitHub Stats
-![Ananyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyashree&show_icons=true&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ananyashree&theme=radical)
-
----
-
-### 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananyashree&theme=rogue)
+![Ananyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa0810&show_icons=true&theme=radical)
 
 ---
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyashree&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa0810&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5)
 
 ---
 
 ### 📈 Contributions and Streaks
+![Ananyashree's Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa0810&theme=radical)
+
 - **Total Contributions**: 33
 - **Repositories**: 10
 - **Longest Streak**: [Your Longest Streak]
