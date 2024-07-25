@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&background=000000&width=435&lines=Welcome+to+my+corner+of+GitHub%21+%F0%9F%8C%9F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&background=2D2D2D&width=435&lines=Welcome+to+my+corner+of+GitHub%21+%F0%9F%8C%9F+Hi+there%2C+I'm+Ananyashree%21+%F0%9F%91%8B" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&background=000000&width=435&lines=Hi+there%2C+I'm+Ananyashree%21+%F0%9F%91%8B" alt="Typing SVG">
-</p>
-
-**I'm passionate about machine learning and data science, and I love tackling real-world problems with innovative solutions. 🚀**
+**Passionate about machine learning and data science, and love tackling real-world problems with innovative solutions. 🚀**
 
 ---
 
@@ -41,11 +37,6 @@
 
 ---
 
-## 👨‍💻 All of my projects are available at
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyaa0810?tab=repositories)
-
----
-
 ## 📫 Get in touch with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyashree-3926a3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ananyaa8.10?igsh=MXFuaWQzdGxhdnE0bw==)
@@ -53,12 +44,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ananyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa0810&show_icons=true&theme=radical)
+## 👨‍💻 All of my projects are available at
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyaa0810?tab=repositories)
 
 ---
 
-### 💻 Most Used Languages
+## 💻 Most Used Languages
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) **40.00%**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **30.00%**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **15.00%**  
@@ -67,7 +58,12 @@
 
 ---
 
-### 📈 Contributions and Streaks
+## 📊 GitHub Stats
+![Ananyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaa0810&show_icons=true&theme=radical)
+
+---
+
+## 📈 Contributions and Streaks
 ![Ananyashree's Contributions and Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ananyaa0810&theme=radical)
 
 ---
