@@ -57,7 +57,11 @@
 ---
 
 ### 💻 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaa0810&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) **40%**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) **25%**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **20%**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) **10%**
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) **5%**
 
 ---
 
@@ -68,15 +72,6 @@
 - **Repositories**: 10
 - **Longest Streak**: [Your Longest Streak]
 - **Current Streak**: [Your Current Streak]
-
----
-
-**💻 Most Used Languages:**
-- **Jupyter Notebook**: ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) - 40%
-- **C++**: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) - 25%
-- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) - 20%
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) - 10%
-- **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) - 5%
 
 ---
 
